@@ -5,8 +5,8 @@
 
 #Group 10 Contract:
 
--People’s opinions and ideas must not be dismissed immediately, everyone’s opinion should be heard
--Submissions made for the assignment should be communicated to the group
+# People’s opinions and ideas must not be dismissed immediately, everyone’s opinion should be heard
+# Submissions made for the assignment should be communicated to the group
 -Responses should be given preferably before 24 hours, communication should be clear and consistent
 -Goals should be set for when each member’s part of the assignment should be done
 -Roles and responsibilities should be distributed evenly
