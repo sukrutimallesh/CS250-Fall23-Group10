@@ -1,3 +1,5 @@
 # CS250-Fall23-Group10
-Alyssa Rivera 
-James Duong
+# Sukruti Mallesh
+# Alyssa Rivera 
+# James Duong
+
