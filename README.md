@@ -14,7 +14,7 @@
 -Each member’s portion of the assignment should be completed on time
 -Each member should be responsible for their own tasks
 
-Signed by: Alyssa Rivera, Sukruti Mallesh, James Duong
+Signed by: Alyssa Rivera, Sukruti Mallesh, James Duong 
 
 
 
